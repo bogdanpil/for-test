@@ -1,0 +1,16 @@
+.title {
+  color: tomato;
+}
+p {
+  color: tomato;
+}
+
+.post-list-item {
+}
+.post-link {
+  color: tomato;
+}
+.text {
+  text-decoration: none;
+  text-transform: capitalize;
+}
